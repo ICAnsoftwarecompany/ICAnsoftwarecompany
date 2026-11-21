@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Moumen Hafez - Technology for Better Business" width="100%">
+<img src="assets/banner.svg.png" alt="Moumen Hafez - Technology for Better Business" width="100%">
 
 <br>
 
