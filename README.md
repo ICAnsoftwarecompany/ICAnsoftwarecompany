@@ -15,21 +15,33 @@ Business & Technology
 
 ## About
 
-I help business owners and managers understand technology, choose the right solution, and use it to run a more organized, efficient and scalable business. Alongside the advisory work, I build and ship the software myself: CRM systems, bilingual (Arabic/English) websites and cross-platform mobile apps.
+I help business owners and managers understand technology, choose the right solution, and use it to run a more organized, efficient and scalable business. Alongside the advisory work, I design and build the software myself: CRM systems, bilingual (Arabic/English) websites and cross-platform mobile apps.
 
 <div dir="rtl">
 
-أساعد أصحاب الأعمال والمديرين على فهم التكنولوجيا واختيار الحل المناسب واستخدامه لبناء عمل أكثر تنظيمًا وكفاءة وقابلية للنمو، وبجانب الاستشارات بنفّذ وأطلق المنتجات البرمجية بنفسي.
+أساعد أصحاب الأعمال والمديرين على فهم التكنولوجيا واختيار الحل المناسب واستخدامه لبناء عمل أكثر تنظيمًا وكفاءة وقابلية للنمو، وبجانب الاستشارات بصمم وأبني المنتجات البرمجية بنفسي.
 
 </div>
 
-## Featured Projects
+## Selected Work
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**ICAN CRM**](https://github.com/ICAnsoftwarecompany/ican-crm) | Multi-tenant omnichannel CRM: leads and customers, sales pipeline, proposals, WhatsApp / Messenger / Gmail inbox, Meta ad campaigns, internal chat, tasks and automation. | React 19 · Vite · Tailwind · TanStack Query · Laravel API |
-| [**Yatlu (يتلو)**](https://github.com/ICAnsoftwarecompany/mushaf-app) | Offline Quran app (Hafs 'an 'Asim, 604-page Madinah layout) shipped to web, Android and iOS from one codebase. | Expo · React Native · TypeScript |
-| [**Personal Brand Website**](https://github.com/ICAnsoftwarecompany/moumen-hafez) | Bilingual (AR/EN, full RTL support) site with consultation booking and articles on business, systems, automation and AI. | Next.js App Router · TypeScript · MUI · next-intl |
+Most of my work is delivered to clients and kept private, so the code is not public. Here is what I build:
+
+**ICAN CRM**
+Multi-tenant omnichannel CRM: leads and customers, sales pipeline, proposals, WhatsApp / Messenger / Gmail inbox, Meta ad campaigns, internal chat, tasks and automation.
+`React 19` `Vite` `Tailwind CSS` `TanStack Query` `Laravel API`
+
+**Yatlu (يتلو)**
+Offline Quran app (Hafs 'an 'Asim, 604-page Madinah layout) shipped to web, Android and iOS from a single codebase.
+`Expo` `React Native` `TypeScript`
+
+**Business Platforms**
+Restaurant systems, school and learning-management platforms, and e-commerce solutions built for clients.
+`React` `Next.js` `Node.js`
+
+**Bilingual Websites**
+Arabic/English sites with full RTL support, consultation booking and content management.
+`Next.js` `TypeScript` `MUI` `next-intl`
 
 ## Tech Stack
 
